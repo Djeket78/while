@@ -1,3 +1,2 @@
 # while!
-
-[2](https://user-images.githubusercontent.com/108763119/178110494-b29781a3-9af2-48df-a810-3ab2bc08f33b.png)
+![image](https://user-images.githubusercontent.com/108763119/178110533-59a1b3d3-3ea8-4e10-8518-b98846da9379.png)
